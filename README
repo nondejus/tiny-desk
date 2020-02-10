@@ -1,5 +1,11 @@
 # tiny-desk
 
+5 4 C 1    品 article, product, commodity
+7 2 4 C    牌 signboard, placard
+5 5 4 6    商 commerce, business, trade
+6 A 1 9    標 a mark, symbol, label, sign; standard
+
+
 5 C 0 F    小 small, tiny, insignificant
 8 F A 6    辦 manage, do, handle; deal with
 5 1 6 C    公 fair, equitable; public; duke
